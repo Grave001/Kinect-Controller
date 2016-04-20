@@ -1,0 +1,67 @@
+C:\Users\alexa\Desktop\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe.config
+C:\Users\alexa\Desktop\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\Seated.gbd
+C:\Users\alexa\Desktop\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\alexa\Desktop\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\alexa\Desktop\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\alexa\Desktop\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\alexa\Desktop\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\alexa\Desktop\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\alexa\Desktop\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\alexa\Desktop\DiscreteGestureBasics-WPF\obj\x86\Debug\App.g.cs
+C:\Users\alexa\Desktop\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_Content.g.cs
+C:\Users\alexa\Desktop\DiscreteGestureBasics-WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\alexa\Desktop\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.cache
+C:\Users\alexa\Desktop\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.lref
+C:\Users\alexa\Desktop\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.baml
+C:\Users\alexa\Desktop\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.g.resources
+C:\Users\alexa\Desktop\DiscreteGestureBasics-WPF\obj\x86\Debug\Microsoft.Samples.Kinect.DiscreteGestureBasics.Properties.Resources.resources
+C:\Users\alexa\Desktop\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\alexa\Desktop\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\alexa\Desktop\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\bin\x86\Debug\DiscreteGestureBasics-WPF.exe.config
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\obj\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\obj\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\bin\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\bin\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\obj\x86\Debug\DiscreteGestureBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\obj\x86\Debug\MainWindow.g.cs
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\obj\x86\Debug\App.g.cs
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.cache
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.lref
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\obj\x86\Debug\MainWindow.baml
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\obj\x86\Debug\DiscreteGestureBasics-WPF.g.resources
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\obj\x86\Debug\Microsoft.Samples.Kinect.DiscreteGestureBasics.Properties.Resources.resources
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\bin\x86\Debug\Database\handsUp.gbd
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\obj\x86\Debug\DiscreteGestureBasics-WPF_Content.g.cs
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\bin\x86\Debug\InputSimulator.dll
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\bin\x86\Debug\InputSimulator.pdb
+C:\Users\alexa\Documents\My Stuff\Hackathons\Codeday 2016\redo bitches\bin\x86\Debug\InputSimulator.xml
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\bin\x86\Debug\DiscreteGestureBasics-WPF.exe.config
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\obj\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\obj\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\bin\x86\Debug\Database\handsUp.gbd
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\bin\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\bin\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\bin\x86\Debug\InputSimulator.pdb
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\bin\x86\Debug\InputSimulator.xml
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\obj\x86\Debug\DiscreteGestureBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\obj\x86\Debug\App.g.cs
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\obj\x86\Debug\DiscreteGestureBasics-WPF_Content.g.cs
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.cache
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.lref
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\obj\x86\Debug\MainWindow.baml
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\obj\x86\Debug\DiscreteGestureBasics-WPF.g.resources
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\obj\x86\Debug\Microsoft.Samples.Kinect.DiscreteGestureBasics.Properties.Resources.resources
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\bin\x86\Debug\Database\leanRight.gbd
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\bin\x86\Debug\Database\leanLeft.gbd
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\bin\x86\Debug\Database\lean.gbd
+C:\Users\Alex\Desktop\Projects\Kinect Controller\redo bitches\bin\x86\Debug\Database\handsOut.gbd

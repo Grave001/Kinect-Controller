@@ -1,0 +1,1807 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2016-02-18</Date>
+			<Time>18:23:05.6458291-08:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>handsOut-2.xef</Clip>
+			<StartFrame>2042</StartFrame>
+			<EndFrame>2904</EndFrame>
+			<ID>ef9ceac9-a6d4-4abb-9825-497f071ee2aa</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>2105</CurrentFrameStart>
+			<CurrentFrameEnd>2106</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="2097">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2098">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2099">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2100">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2101">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2102">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2103">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2104">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2105">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2106">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2107">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2108">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2109">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2110">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2111">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2112">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2113">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2114">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2115">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2116">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2117">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2118">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2119">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2120">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2121">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2122">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2123">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2124">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2125">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2126">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2127">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2128">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2129">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2130">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2131">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2132">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2133">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2134">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2135">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2136">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2137">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2138">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2139">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2140">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2141">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2142">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2143">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2144">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2145">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2146">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2147">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2148">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2149">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2150">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2151">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2152">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2153">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2154">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2155">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2156">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2157">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2158">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2159">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2160">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2161">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2162">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2163">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2164">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2165">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2166">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2167">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2168">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2169">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2170">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2171">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2172">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2173">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2174">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2175">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2176">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2177">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2178">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2179">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2180">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2181">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2182">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2183">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2184">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2185">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2186">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2187">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2188">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2189">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2190">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2191">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2192">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2193">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2194">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2195">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2196">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2197">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2198">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2199">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2200">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2201">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2202">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2203">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2204">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2205">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2206">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2207">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2208">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2209">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2210">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2211">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2212">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2213">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2214">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2215">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2216">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2217">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2218">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2219">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2220">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2221">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2222">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2223">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2224">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2225">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2226">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2227">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2228">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2229">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2230">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2231">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2232">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2233">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2234">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2235">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2236">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2237">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2238">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2239">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2240">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2241">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2242">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2243">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2244">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2245">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2246">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2247">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2248">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2249">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2250">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2251">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2252">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2253">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2254">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2255">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2256">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2257">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2258">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2259">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2260">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2261">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2262">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2263">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2264">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2265">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2266">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2267">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2268">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2269">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2270">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2271">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2272">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2273">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2274">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2275">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2276">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2277">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2278">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2279">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2280">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2281">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2282">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2283">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2284">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2285">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2286">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2287">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2288">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2289">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2290">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2291">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2292">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2293">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2294">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2295">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2296">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2297">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2298">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2299">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2300">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2301">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2302">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2303">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2304">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2305">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2306">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2307">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2308">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2309">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2310">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2311">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2312">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2313">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2314">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2315">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2316">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2317">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2318">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2319">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2320">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2321">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2322">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2323">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2324">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2325">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2326">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2327">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2328">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2329">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2330">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2331">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2332">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2333">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2334">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2335">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2336">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2337">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2338">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2339">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2340">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2341">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2342">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2343">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2344">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2345">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2346">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2347">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2348">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2349">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2350">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2351">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2352">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2353">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2354">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2355">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2356">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2357">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2358">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2359">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2360">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2361">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2362">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2363">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2364">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2365">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2366">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2367">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2408">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2409">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2410">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2411">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2412">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2413">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2414">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2415">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2416">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2417">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2418">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2419">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2420">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2421">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2422">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2423">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2424">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2425">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2426">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2427">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2428">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2429">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2430">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2431">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2432">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2433">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2434">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2435">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2436">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2437">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2438">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2439">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2440">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2441">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2442">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2443">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2444">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2445">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2446">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2447">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2448">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2449">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2450">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2451">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2452">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2453">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2454">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2455">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2456">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2457">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2458">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2459">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2460">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2461">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2462">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2463">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2464">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2465">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2466">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2467">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2468">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2469">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2470">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2471">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2472">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2473">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2474">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2475">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2476">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2477">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2478">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2479">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2480">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2481">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2482">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2483">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2484">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2485">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2546">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2547">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2548">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2549">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2550">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2551">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2552">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2553">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2554">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2555">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2556">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2557">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2558">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2559">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2560">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2561">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2562">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2563">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2564">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2565">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2566">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2567">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2568">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2569">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2570">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2571">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2572">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2573">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2574">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2575">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2576">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2577">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2578">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2579">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2580">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2581">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2582">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2583">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2584">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2585">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2586">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2587">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2588">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2589">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2590">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2591">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2592">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2593">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2594">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2595">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2596">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2597">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2598">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2599">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2600">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2601">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2602">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2603">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2604">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2605">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2606">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2607">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2608">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2609">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2610">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2611">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2612">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2613">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2614">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2615">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2616">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2617">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2618">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2619">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2620">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2621">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2622">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2623">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2624">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2625">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2626">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2627">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2628">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2629">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2630">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2631">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2632">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2633">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2634">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2635">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2636">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2637">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2638">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2639">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2640">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2641">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2642">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2643">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2644">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2686">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2687">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2688">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2689">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2690">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2691">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2692">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2693">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2694">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2695">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2696">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2697">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2698">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2699">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2700">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2701">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2702">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2703">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2704">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2705">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2706">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2707">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2708">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2709">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2710">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2711">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2712">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2713">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2714">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2715">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2716">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2717">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2718">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2719">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2720">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2721">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2722">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2723">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2724">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2725">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2726">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2727">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2728">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2729">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2730">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2731">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2732">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2733">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2734">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2735">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2736">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2737">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2738">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2739">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2740">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2741">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2742">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2743">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2744">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2745">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2746">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2747">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2748">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2749">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2750">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2751">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2752">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2753">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2754">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2755">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2756">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2757">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2758">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2759">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2760">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2761">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2762">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2763">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2764">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2765">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2766">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2767">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2768">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2769">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2770">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2771">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2772">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2773">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2774">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2775">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2776">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2777">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2778">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2779">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2780">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2781">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2782">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2783">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2784">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2785">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2786">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2787">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2788">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2789">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2790">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2791">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2792">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2793">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2794">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2795">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2796">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2797">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2798">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2799">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2800">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2801">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2802">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2803">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2804">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2805">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2806">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2807">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2808">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2809">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2810">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2811">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2812">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2813">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2814">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2815">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2816">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2817">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2818">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2819">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2820">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2821">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2822">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2823">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2824">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2825">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2826">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2827">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2828">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+			<Items Frame="2829">
+				<Items xsi:type="BoolAttribute" Name="handsOut" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

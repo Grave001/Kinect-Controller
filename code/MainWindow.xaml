@@ -1,0 +1,58 @@
+﻿<Window x:Class="Microsoft.Samples.Kinect.DiscreteGestureBasics.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Microsoft.Samples.Kinect.DiscreteGestureBasics"
+        Title="Discrete Gesture Basics"
+        Height="650" Width="750"
+        Closing="MainWindow_Closing">
+    <Window.Resources>
+        <SolidColorBrush x:Key="MediumGreyBrush" Color="#ff6e6e6e" />
+        <SolidColorBrush x:Key="KinectPurpleBrush" Color="#ff52318f" />
+        <SolidColorBrush x:Key="KinectBlueBrush" Color="#ff00BCF2" />
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35" />
+            <RowDefinition Height="540" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="1" ShowGridLines="True">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <TextBlock x:Name="handsUpText" Grid.Column="0" Grid.Row="0" HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" Text="Hands Up" VerticalAlignment="Center" FontSize="24"/>
+            <TextBox x:Name="handsUpInput" Grid.Column="1" HorizontalAlignment="Center" Height="48" Margin="27.556,0,26.778,16.556" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="119" TextAlignment="Center" FontSize="29.333"/>
+
+            <TextBlock x:Name="leftHandCloseText" Grid.Column="0" Grid.Row="1" HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" Text="Left Hand Close" VerticalAlignment="Center" FontSize="24"/>
+            <TextBox x:Name="leftHandCloseInput" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center" Height="48" Margin="27.556,0,26.778,16.556" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="119" TextAlignment="Center" FontSize="29.333"/>
+
+            <TextBlock x:Name="rightHandCloseText" Grid.Column="0" Grid.Row="2" HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" Text="Right Hand Close" VerticalAlignment="Center" FontSize="24"/>
+            <TextBox x:Name="rightHandCloseInput" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Center" Height="48" Margin="27.556,0,26.778,16.556" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="119" TextAlignment="Center" FontSize="29.333"/>
+
+            <TextBlock x:Name="leanRightText" Grid.Column="0" Grid.Row="3" HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" Text="Lean Right" VerticalAlignment="Center" FontSize="24"/>
+            <TextBox x:Name="leanRightInput" Grid.Column="1" Grid.Row="3" HorizontalAlignment="Center" Height="48" Margin="27.556,0,26.778,16.556" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="119" TextAlignment="Center" FontSize="29.333"/>
+        </Grid>
+
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Center" Margin="0" TextWrapping="Wrap" Text="Kinect Controller" VerticalAlignment="Center" FontSize="16" />
+        <Button x:Name="saveButton" Content="Save" HorizontalAlignment="Center" Margin="335,0,335.778,0.444" Grid.Row="2" VerticalAlignment="Bottom" Width="75" Click="saveButton_Click"/>
+
+        <StackPanel Orientation="Vertical" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Height="294" Margin="438,92,9.778,154.889" Width="298">
+            <Viewbox x:Name="kinectBodyViewbox">
+                <Image Source="{Binding ImageSource}" Stretch="UniformToFill" />
+            </Viewbox>
+        </StackPanel>
+        <StatusBar Grid.Row="3" HorizontalAlignment="Stretch" Name="statusBar" VerticalAlignment="Bottom" Background="White" Foreground="{StaticResource MediumGreyBrush}">
+            <StatusBarItem Content="{Binding StatusText}" />
+        </StatusBar>
+    </Grid>
+</Window>

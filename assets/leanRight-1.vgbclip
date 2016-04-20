@@ -1,0 +1,1978 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2016-02-18</Date>
+			<Time>17:54:29.5158173-08:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>leanRight-1.xef</Clip>
+			<StartFrame>160</StartFrame>
+			<EndFrame>1066</EndFrame>
+			<ID>38696895-4a21-45ee-84a8-1bf06736a727</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>1029</CurrentFrameStart>
+			<CurrentFrameEnd>1030</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="248">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="249">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="250">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="251">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="252">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="253">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="254">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="255">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="256">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="257">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="258">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="259">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="260">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="261">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="262">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="263">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="264">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="265">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="266">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="267">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="268">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="269">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="270">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="271">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="272">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="273">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="274">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="275">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="276">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="277">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="278">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="279">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="280">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="281">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="282">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="283">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="284">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="285">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="286">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="287">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="288">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="289">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="290">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="291">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="292">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="293">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="294">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="295">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="296">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="297">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="298">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="299">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="300">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="301">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="302">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="303">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="304">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="305">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="306">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="307">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="308">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="309">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="310">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="311">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="312">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="313">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="314">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="315">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="316">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="317">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="318">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="319">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="320">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="321">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="322">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="323">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="324">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="325">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="326">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="327">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="328">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="329">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="330">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="331">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="332">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="333">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="334">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="335">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="336">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="337">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="338">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="339">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="340">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="341">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="342">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="343">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="344">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="345">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="346">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="347">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="348">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="349">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="350">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="351">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="352">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="353">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="354">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="355">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="356">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="357">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="358">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="359">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="410">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="411">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="412">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="413">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="414">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="415">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="416">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="417">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="418">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="419">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="420">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="421">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="422">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="423">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="424">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="425">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="426">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="427">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="428">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="429">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="430">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="431">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="432">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="433">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="434">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="435">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="436">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="437">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="438">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="439">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="440">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="441">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="442">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="443">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="444">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="445">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="446">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="447">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="448">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="449">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="450">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="451">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="452">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="453">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="454">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="455">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="456">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="457">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="458">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="459">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="460">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="461">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="462">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="463">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="464">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="465">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="466">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="467">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="468">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="469">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="470">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="471">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="472">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="473">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="474">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="475">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="476">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="477">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="478">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="479">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="480">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="481">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="482">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="483">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="484">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="485">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="486">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="487">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="488">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="489">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="490">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="491">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="492">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="493">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="494">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="495">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="496">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="497">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="498">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="499">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="500">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="501">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="502">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="503">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="504">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="505">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="506">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="507">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="508">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="509">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="510">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="511">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="512">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="513">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="514">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="515">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="516">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="517">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="518">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="519">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="520">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="521">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="522">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="523">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="524">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="525">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="526">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="527">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="528">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="529">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="530">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="531">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="532">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="533">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="589">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="590">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="591">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="592">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="593">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="594">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="595">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="596">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="597">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="598">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="599">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="600">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="601">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="602">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="603">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="604">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="605">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="606">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="607">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="608">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="609">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="610">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="611">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="612">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="613">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="614">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="615">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="616">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="617">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="618">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="619">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="620">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="621">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="622">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="623">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="624">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="625">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="626">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="627">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="628">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="629">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="630">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="631">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="632">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="633">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="634">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="635">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="636">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="637">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="638">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="639">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="640">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="641">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="642">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="643">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="644">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="645">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="646">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="647">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="648">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="649">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="650">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="651">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="652">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="653">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="654">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="655">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="656">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="657">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="658">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="659">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="660">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="661">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="662">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="663">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="664">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="665">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="666">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="667">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="668">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="669">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="670">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="671">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="672">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="673">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="674">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="675">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="676">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="677">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="678">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="679">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="680">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="681">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="682">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="683">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="684">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="685">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="686">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="687">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="688">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="689">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="690">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="691">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="692">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="693">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="694">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="695">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="696">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="697">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="698">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="699">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="700">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="701">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="702">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="703">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="704">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="705">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="706">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="707">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="708">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="709">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="710">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="711">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="712">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="713">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="714">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="715">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="716">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="717">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="718">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="719">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="720">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="721">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="722">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="723">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="724">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="725">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="726">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="727">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="728">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="729">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="730">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="731">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="732">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="733">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="734">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="735">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="736">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="737">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="738">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="739">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="740">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="741">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="742">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="743">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="744">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="745">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="746">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="747">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="748">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="749">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="750">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="751">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="752">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="753">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="754">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="755">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="756">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="757">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="758">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="815">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="816">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="817">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="818">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="819">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="820">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="821">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="822">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="823">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="824">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="825">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="826">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="827">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="828">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="829">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="830">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="831">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="832">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="833">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="834">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="835">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="836">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="837">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="838">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="839">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="840">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="841">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="842">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="843">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="844">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="845">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="846">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="847">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="848">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="849">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="850">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="851">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="852">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="853">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="854">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="855">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="856">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="857">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="858">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="859">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="860">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="861">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="862">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="863">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="864">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="865">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="866">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="867">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="868">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="869">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="870">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="871">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="872">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="873">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="874">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="875">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="876">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="877">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="878">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="879">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="880">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="881">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="882">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="883">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="884">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="885">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="886">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="887">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="888">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="889">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="890">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="891">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="892">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="893">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="894">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="895">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="896">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="897">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="898">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="899">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="900">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="901">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="902">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="903">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="904">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="905">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="906">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="907">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="908">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="909">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="910">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="911">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="912">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="913">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="914">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="915">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="916">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="917">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="918">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="919">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="920">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="921">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="922">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="923">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="924">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="925">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="926">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="927">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="928">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="929">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="930">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="931">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="975">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="976">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="977">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="978">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="979">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="980">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="981">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="982">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="983">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="984">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="985">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="986">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="987">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="988">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="989">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="990">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="991">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="992">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="993">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="994">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="995">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="996">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="997">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="998">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="999">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1000">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1001">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1002">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1003">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1004">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1066">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1067">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1068">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1069">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1070">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1071">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1072">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1073">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1074">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1075">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1076">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1077">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1078">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1079">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1080">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1081">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1082">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1083">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1084">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1085">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1086">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1087">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1088">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1089">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1090">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1091">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1092">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1093">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1094">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1095">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1096">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1097">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1098">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1099">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1100">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1101">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1102">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1103">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1104">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1105">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1106">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1107">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1108">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1109">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1110">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1111">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1112">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1113">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1114">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1115">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1116">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1117">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1118">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1119">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1120">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1121">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1122">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1123">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1124">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1125">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1126">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1127">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1128">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1129">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1130">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1131">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1132">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1133">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1134">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1135">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1136">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1137">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1138">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1139">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1140">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1141">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1142">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1143">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1144">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1145">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1146">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1147">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1148">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1149">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1150">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1151">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1152">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1153">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1154">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1155">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1156">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1157">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1158">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1159">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1160">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+			<Items Frame="1161">
+				<Items xsi:type="BoolAttribute" Name="lean_Right" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>
